@@ -33,7 +33,7 @@ The repository includes Jupyter Notebook files (.ipynb) for each downstream task
 - **Summarization**
   - T5
   - Pegasus
-  - BigBirdPegasus (Extra Work)
+  - BigBirdPegasus
 
 - **Translation**
   - T5
