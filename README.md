@@ -4,7 +4,7 @@ This repository contains notebooks and documentation for exploring various NLP m
 
 ## Dataset
 
-The dataset used for the experiments can be found [here](link_to_dataset). Please download the dataset separately and follow the instructions provided in the notebooks to load and preprocess the data.
+The dataset used for the experiments can be found in respective folders or it can be API calling within jupyter file. Please download the dataset separately and follow the instructions provided in the notebooks to load and preprocess the data.
 
 ## Notebooks
 
